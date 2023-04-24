@@ -5,3 +5,6 @@ https://www.youtube.com/watch?v=WhwU1-DLeVw
 
 # flask-login
 https://dev.to/nagatodev/adding-authentication-to-a-flask-application-53ep
+
+# flask-easy-demo
+https://github.com/helloflask/watchlist
